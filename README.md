@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hanahaghani.hanahaghani&left_color=gray&right_color=black" />
-</div>
+
 
 <details open>
   <summary><b>📖 Read More...</b></summary>
