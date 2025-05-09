@@ -12,9 +12,6 @@
 </p>
 
 
-<details open>
-  <summary><b>📖 Read More...</b></summary>
-
 ## 👋 Hi there! I'm hanane haghani  
 🎓 Aspiring Data Scientist | 🚀 Deep Learning Enthusiast  
 
@@ -48,4 +45,4 @@ Jupyter Notebooks | Git
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanahaghani&theme=tokyonight&margin-w=15)](https://github.com/hanahaghani)
 
-</details>
+
