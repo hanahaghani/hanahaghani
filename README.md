@@ -6,7 +6,7 @@
   <a href="https://t.me/hanahaghani">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:haghanihana80@gmail.com">
+  <a href="mailto:haghanihana1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="https://www.linkedin.com/in/hana-haghani-146920371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
