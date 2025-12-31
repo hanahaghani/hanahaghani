@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
-
-
 <p align="center">
   <a href="https://t.me/hanahaghani">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -11,43 +9,64 @@
   <a href="mailto:haghanihana1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/hana-haghani-146920371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/hana-haghani-146920371">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
+---
 
-## 👋 Hi there! I'm hanane haghani  
+## 👋 Hi there! I'm Hanane Haghani  
 🎓 Aspiring Data Scientist | 🚀 Deep Learning Enthusiast  
 
 ---
 
 ### 🧠 About Me  
-I'm currently learning Data Science and preparing to transition into Deep Learning.  
-This page will host my learning journey, projects, notebooks, and experiments.
+I'm currently learning **Data Science** and preparing to transition into **Deep Learning**.  
+This profile documents my learning journey, projects, notebooks, and experiments in ML & AI.
 
 ---
 
 ### 📂 Upcoming Projects  
-- 📊 Exploratory Data Analysis (EDA) on [Dataset]  
+- 📊 Exploratory Data Analysis (EDA)  
 - 🤖 Image Classification with CNNs  
-- 🧠 NLP Experiments using Transformers
-
-
-
-### 🛠️ Tools & Technologies  
-Python | Pandas | NumPy | Matplotlib | Scikit-learn  
-TensorFlow | PyTorch  
-Jupyter Notebooks | Git  
+- 🧠 NLP Experiments using Transformers  
 
 ---
 
-## 🔥 My Stats :  
+### 🛠️ Tools & Technologies  
 
-[![hanahaghani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight)](https://github.com/hanahaghani)
+**Languages & Libraries**  
+Python | Pandas | NumPy | Matplotlib | Scikit-learn  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanahaghani&layout=compact&theme=tokyonight)](https://github.com/hanahaghani)
+**Deep Learning**  
+TensorFlow | PyTorch  
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanahaghani&theme=tokyonight&margin-w=15)](https://github.com/hanahaghani)
+**Workflow**  
+Jupyter Notebooks | Git | GitHub  
 
+---
 
+## 🔥 GitHub Stats  
+
+<!-- ⚠️ DO NOT wrap these images inside links -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanahaghani&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanahaghani&theme=tokyonight&margin-w=15)
+
+---
+
+### 📌 Featured Repositories  
+- 🧠 **ML-Exercises** — Machine Learning notebooks & experiments  
+- 📊 **Data Analysis Projects** — EDA & visualization practice  
+
+---
+
+<div align="center">
+
+✨ *Learning every day, building step by step* ✨  
+
+</div>
