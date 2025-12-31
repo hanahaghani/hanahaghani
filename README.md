@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
 </div>
 
 <p align="center">
@@ -14,59 +14,79 @@
   </a>
 </p>
 
----
+<hr/>
 
-## 👋 Hi there! I'm Hanane Haghani  
-🎓 Aspiring Data Scientist | 🚀 Deep Learning Enthusiast  
+<h2 align="center">👋 Hi, I'm Hanane Haghani</h2>
 
----
+<p align="center">
+🎓 Aspiring Data Scientist &nbsp;|&nbsp; 🚀 Deep Learning Enthusiast
+</p>
 
-### 🧠 About Me  
-I'm currently learning **Data Science** and preparing to transition into **Deep Learning**.  
-This profile documents my learning journey, projects, notebooks, and experiments in ML & AI.
+<hr/>
 
----
+<h3>🧠 About Me</h3>
+<p>
+I am currently learning <b>Data Science</b> and preparing to transition into
+<b>Deep Learning & AI</b>.  
+This profile documents my learning journey, projects, notebooks,
+and experiments in Machine Learning.
+</p>
 
-### 📂 Upcoming Projects  
-- 📊 Exploratory Data Analysis (EDA)  
-- 🤖 Image Classification with CNNs  
-- 🧠 NLP Experiments using Transformers  
+<hr/>
 
----
+<h3>📂 Upcoming Projects</h3>
+<ul>
+  <li>📊 Exploratory Data Analysis (EDA)</li>
+  <li>🤖 Image Classification with CNNs</li>
+  <li>🧠 NLP Experiments using Transformers</li>
+</ul>
 
-### 🛠️ Tools & Technologies  
+<hr/>
 
-**Languages & Libraries**  
-Python | Pandas | NumPy | Matplotlib | Scikit-learn  
+<h3>🛠️ Tools & Technologies</h3>
 
-**Deep Learning**  
-TensorFlow | PyTorch  
+<b>Languages & Libraries</b><br/>
+Python · Pandas · NumPy · Matplotlib · Scikit-learn
 
-**Workflow**  
-Jupyter Notebooks | Git | GitHub  
+<br/><br/>
 
----
+<b>Deep Learning</b><br/>
+TensorFlow · PyTorch
 
-## 🔥 GitHub Stats  
+<br/><br/>
 
-<!-- ⚠️ DO NOT wrap these images inside links -->
+<b>Workflow</b><br/>
+Jupyter Notebook · Git · GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<hr/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanahaghani&layout=compact&theme=tokyonight&cache_seconds=86400)
+<h2 align="center">🔥 GitHub Stats</h2>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanahaghani&theme=tokyonight&margin-w=15)
+<p align="center">
+  <img
+    src="https://stats-github-readme.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://stats-github-readme.vercel.app/api/top-langs?username=hanahaghani&layout=compact&theme=tokyonight"
+    height="170"
+  />
+</p>
 
----
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=hanahaghani&theme=tokyonight&margin-w=15"
+  />
+</p>
 
-### 📌 Featured Repositories  
-- 🧠 **ML-Exercises** — Machine Learning notebooks & experiments  
-- 📊 **Data Analysis Projects** — EDA & visualization practice  
+<hr/>
 
----
+<h3>📌 Featured Repositories</h3>
+<ul>
+  <li>🧠 <b>ML-Exercises</b> — Machine Learning notebooks & practice</li>
+</ul>
 
-<div align="center">
-
-✨ *Learning every day, building step by step* ✨  
-
-</div>
+<hr/>
+<p align="center">
+✨ <i>Learning every day, building step by step</i> ✨
+</p>
