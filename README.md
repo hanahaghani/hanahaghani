@@ -31,9 +31,9 @@ This page will host my learning journey, projects, notebooks, and experiments.
 ### 📂 Upcoming Projects  
 - 📊 Exploratory Data Analysis (EDA) on [Dataset]  
 - 🤖 Image Classification with CNNs  
-- 🧠 NLP Experiments using Transformers  
+- 🧠 NLP Experiments using Transformers
 
----
+
 
 ### 🛠️ Tools & Technologies  
 Python | Pandas | NumPy | Matplotlib | Scikit-learn  
