@@ -81,11 +81,6 @@ Jupyter Notebook · Git · GitHub
 
 <hr/>
 
-<h3>📌 Featured Repositories</h3>
-<ul>
-  <li>🧠 <b>ML-Exercises</b> — Machine Learning notebooks & practice</li>
-</ul>
-
 <hr/>
 <p align="center">
 ✨ <i>Learning every day, building step by step</i> ✨
