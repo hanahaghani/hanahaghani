@@ -67,10 +67,6 @@ Jupyter Notebook · Git · GitHub
     src="https://stats-github-readme.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight"
     height="170"
   />
-  <img
-    src="https://stats-github-readme.vercel.app/api/top-langs?username=hanahaghani&layout=compact&theme=tokyonight"
-    height="170"
-  />
 <hr/>
 
 <hr/>
