@@ -68,8 +68,6 @@ Jupyter Notebook · Git · GitHub
     height="170"
   />
 <hr/>
-
-<hr/>
 <p align="center">
 ✨ <i>Learning every day, building step by step</i> ✨
 </p>
