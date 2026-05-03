@@ -25,7 +25,6 @@
 <hr/>
 
 <h3>🧠 About Me</h3>
-
 <p>
 I'm a <b>Software Engineering & IT</b> student, currently diving into <b>Machine Learning</b> — understanding algorithms, building models, and learning how data tells a story.  
 My next goal is to master <b>Deep Learning</b> and explore neural networks, computer vision, and beyond.
@@ -33,8 +32,19 @@ My next goal is to master <b>Deep Learning</b> and explore neural networks, comp
 
 <hr/>
 
-<h3>📂 What I'm working on / Upcoming</h3>
+<h3>📊 What I've Learned So Far</h3>
 
+<p>
+✔ <b>Python Programming</b> — Advanced (OOP, NumPy)<br/>
+✔ <b>Data Analysis & Visualization</b> — Pandas, Matplotlib, Seaborn<br/>
+🔄 <b>Machine Learning</b> — Scikit-learn (Regression, Classification) — <i>In progress</i><br/>
+🎯 <b>Deep Learning</b> — Next goal: TensorFlow & PyTorch<br/>
+✔ <b>Version Control</b> — Git & GitHub
+</p>
+
+<hr/>
+
+<h3>📂 Upcoming Projects</h3>
 <ul>
   <li>📊 Exploratory Data Analysis (EDA) on real-world datasets</li>
   <li>🤖 Supervised & Unsupervised ML models (Scikit-learn)</li>
@@ -45,24 +55,17 @@ My next goal is to master <b>Deep Learning</b> and explore neural networks, comp
 
 <h3>🛠️ Tools & Technologies</h3>
 
-<b>Languages & Libraries</b>
-
+<b>Languages & Libraries</b><br/>
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
+<br/><br/>
 
-
-
-
-<b>Deep Learning (learning soon)</b>
-
+<b>Deep Learning (learning soon)</b><br/>
 TensorFlow · PyTorch
 
+<br/><br/>
 
-
-
-
-<b>Workflow</b>
-
+<b>Workflow</b><br/>
 Jupyter Notebook · Git · GitHub
 
 <hr/>
