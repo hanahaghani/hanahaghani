@@ -64,6 +64,17 @@ Jupyter Notebook · Git · GitHub
 
 <h2 align="center">🔥 GitHub Stats</h2>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <b>⭐ Total Stars Earned:</b> 0<br/>
+  <b>📝 Total Commits (2026):</b> 69<br/>
+  <b>🔄 Total PRs:</b> 0<br/>
+  <b>🐛 Total Issues:</b> 0<br/>
+  <b>🤝 Contributed to:</b> 0
+</p>
+<hr/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanahaghani&theme=github-dark" />
 </p>
