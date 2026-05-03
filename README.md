@@ -44,14 +44,6 @@ My next goal is to master <b>Deep Learning</b> and explore neural networks, comp
 
 <hr/>
 
-<h3>📂 Upcoming Projects</h3>
-<ul>
-  <li>📊 Exploratory Data Analysis (EDA) on real-world datasets</li>
-  <li>🤖 Supervised & Unsupervised ML models (Scikit-learn)</li>
-  <li>🧠 Getting ready for Deep Learning (CNNs, RNNs, Transformers)</li>
-</ul>
-
-<hr/>
 
 <h3>🛠️ Tools & Technologies</h3>
 
