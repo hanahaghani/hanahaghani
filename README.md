@@ -65,10 +65,7 @@ Jupyter Notebook · Git · GitHub
 <h2 align="center">🔥 GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight"
-    height="170"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanahaghani&theme=github-dark" />
 </p>
 
 <hr/>
