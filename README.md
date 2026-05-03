@@ -64,13 +64,11 @@ Jupyter Notebook · Git · GitHub
 
 <h2 align="center">🔥 GitHub Stats</h2>
 
-
-    <p align="center">
   <img
     src="https://stats-github-readme.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight"
     height="170"
   />
-<hr/>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanahaghani&theme=github-dark" />
