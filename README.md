@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
+  <img src="https://media1.tenor.com/m/-iVLk0cE8K4AAAAC/coding-typing.gif" width="300" />
 </div>
 
 <p align="center">
@@ -16,46 +16,53 @@
 
 <hr/>
 
-<h2 align="center">👋 Hi, I'm Hanane Haghani</h2>
+<h2 align="center">👩‍💻 Hi, I'm Hanane Haghani</h2>
 
 <p align="center">
-🎓 Aspiring Data Scientist &nbsp;|&nbsp; 🚀 Deep Learning Enthusiast
+🎓 Data Science student &nbsp;|&nbsp; 🤖 ML Learner &nbsp;|&nbsp; 🚀 Next stop: Deep Learning
 </p>
 
 <hr/>
 
 <h3>🧠 About Me</h3>
+
 <p>
-I am currently learning <b>Data Science</b> and preparing to transition into
-<b>Deep Learning & AI</b>.  
-This profile documents my learning journey, projects, notebooks,
-and experiments in Machine Learning.
+I'm currently diving deep into <b>Machine Learning</b> — understanding algorithms, building models, and learning how data tells a story.  
+My next goal is to master <b>Deep Learning</b> and explore neural networks, computer vision, and beyond.
 </p>
 
 <hr/>
 
-<h3>📂 Upcoming Projects</h3>
+<h3>📂 What I'm working on / Upcoming</h3>
+
 <ul>
-  <li>📊 Exploratory Data Analysis (EDA)</li>
-  <li>🤖 Image Classification with CNNs</li>
-  <li>🧠 NLP Experiments using Transformers</li>
+  <li>📊 Exploratory Data Analysis (EDA) on real-world datasets</li>
+  <li>🤖 Supervised & Unsupervised ML models (Scikit-learn)</li>
+  <li>🧠 Getting ready for Deep Learning (CNNs, RNNs, Transformers)</li>
 </ul>
 
 <hr/>
 
 <h3>🛠️ Tools & Technologies</h3>
 
-<b>Languages & Libraries</b><br/>
-Python · Pandas · NumPy · Matplotlib · Scikit-learn
+<b>Languages & Libraries</b>
 
-<br/><br/>
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-<b>Deep Learning</b><br/>
+
+
+
+
+<b>Deep Learning (learning soon)</b>
+
 TensorFlow · PyTorch
 
-<br/><br/>
 
-<b>Workflow</b><br/>
+
+
+
+<b>Workflow</b>
+
 Jupyter Notebook · Git · GitHub
 
 <hr/>
@@ -64,10 +71,13 @@ Jupyter Notebook · Git · GitHub
 
 <p align="center">
   <img
-    src="https://stats-github-readme.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight"
     height="170"
   />
+</p>
+
 <hr/>
+
 <p align="center">
-✨ <i>Learning every day, building step by step</i> ✨
+✨ <i>Learning ML step by step — Deep Learning is next ✨</i>
 </p>
