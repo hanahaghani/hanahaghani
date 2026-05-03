@@ -50,12 +50,12 @@ My next goal is to master <b>Deep Learning</b> and explore neural networks, comp
 <b>Languages & Libraries</b><br/>
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-<br/><br/>
+<br/>
 
 <b>Deep Learning (learning soon)</b><br/>
 TensorFlow · PyTorch
 
-<br/><br/>
+<br/>
 
 <b>Workflow</b><br/>
 Jupyter Notebook · Git · GitHub
