@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/-iVLk0cE8K4AAAAC/coding-typing.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <h2 align="center">👩‍💻 Hi, I'm Hanane Haghani</h2>
 
 <p align="center">
-🎓 Data Science student &nbsp;|&nbsp; 🤖 ML Learner &nbsp;|&nbsp; 🚀 Next stop: Deep Learning
+🎓 Software Engineering & IT student &nbsp;|&nbsp; 🤖 ML Learner &nbsp;|&nbsp; 🚀 Next stop: Deep Learning
 </p>
 
 <hr/>
@@ -27,7 +27,7 @@
 <h3>🧠 About Me</h3>
 
 <p>
-I'm currently diving deep into <b>Machine Learning</b> — understanding algorithms, building models, and learning how data tells a story.  
+I'm a <b>Software Engineering & IT</b> student, currently diving into <b>Machine Learning</b> — understanding algorithms, building models, and learning how data tells a story.  
 My next goal is to master <b>Deep Learning</b> and explore neural networks, computer vision, and beyond.
 </p>
 
