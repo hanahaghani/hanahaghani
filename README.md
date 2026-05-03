@@ -64,32 +64,12 @@ Jupyter Notebook · Git · GitHub
 
 <h2 align="center">🔥 GitHub Stats</h2>
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <table border="0" cellspacing="0" cellpadding="10" style="margin: 0 auto; background-color: #0d1117; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-    <tr>
-      <td align="center"><b>⭐ Total Stars Earned:</b></td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="center"><b>📝 Total Commits (2026):</b></td>
-      <td align="center">69</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🔄 Total PRs:</b></td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🐛 Total Issues:</b></td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🤝 Contributed to:</b></td>
-      <td align="center">0</td>
-    </tr>
-  </table>
-</p>
+    <p align="center">
+  <img
+    src="https://stats-github-readme.vercel.app/api?username=hanahaghani&show_icons=true&theme=tokyonight"
+    height="170"
+  />
 <hr/>
 
 <p align="center">
